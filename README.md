@@ -14,21 +14,21 @@ Project P5 (game) dari sekolah
    ```bash
    python -m http.server 8000 --bind 127.0.0.1
 
-# Proyek Contoh Aplikasi
-
-**Deskripsi Singkat**
-
-Ini adalah aplikasi contoh yang melakukan [jelaskan fungsi aplikasi].
-
 **Download**
 
 * **Versi Terbaru:**
-  * **Windows:** <a href="/">Tes</a>
-  * **macOS:** [Link download file .dmg untuk macOS]
-  * **Linux:** [Link download file .deb atau .rpm untuk Linux]
+  * **HTML5:** <a href="/">Klik Disini</a>
+  * **Windows:** <a href="/">Klik Disini</a>
+  * **macOS:** <a href="/">Klik Disini</a>
+  * **Linux:** <a href="/">Klik Disini</a>
 
 **Cara Instalasi**
 
+* **HTML5:**
+  1. **Python:** Pastikan Anda telah menginstal Python di sistem Kalian.
+  2. Open folder di terminal kemudian berikan perintah ini di command terminal
+```bash
+   python -m http.server 8000 --bind 127.0.0.1
 * **Windows:**
   1. Unduh file .exe.
   2. Jalankan file .exe dan ikuti petunjuk instalasi.
