@@ -27,7 +27,7 @@ Ini adalah game farmer simple.
   2. Buka file .dmg dan drag aplikasi ke folder Applications.
 
 **Linux:**
-  1. Unduh file .deb atau .rpm yang sesuai dengan distribusi Linux Anda.
+  1. Unduh file .deb atau .rpm yang sesuai dengan distribusi Linux kalian.
   2. Buka terminal dan jalankan perintah berikut:
      ```bash
      sudo dpkg -i TownVille.deb
