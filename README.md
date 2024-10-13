@@ -19,7 +19,7 @@ Ini adalah game farmer simple.
    python -m http.server 8000 --bind 127.0.0.1
 
 **Windows**
-  1. extrack file .zip.
+  1. ekstrak file .zip.
   2. Jalankan file .exe.
 
 **macOS:**
