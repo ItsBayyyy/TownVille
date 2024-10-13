@@ -30,10 +30,9 @@ Ini adalah game farmer simple.
   1. Unduh file .deb atau .rpm yang sesuai dengan distribusi Linux Anda.
   2. Buka terminal dan jalankan perintah berikut:
      ```bash
-     sudo dpkg -i nama_file.deb
+     sudo dpkg -i TownVille.deb
      ```
      atau
      ```bash
-     sudo rpm -i nama_file.rpm
+     sudo rpm -i TownVille.rpm
      ```
-     Ganti `nama_file.deb` atau `nama_file.rpm` dengan nama file yang Anda unduh.
