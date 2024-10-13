@@ -28,7 +28,7 @@ Project P5 (game) dari sekolah
   1. **Python:** Pastikan Anda telah menginstal Python di sistem Kalian.
   2. Open folder di terminal kemudian berikan perintah ini di command terminal
 ```bash
-   python -m http.server 8000 --bind 127.0.0.1
+   python -m http.server 8000 --bind 127.0.0.1```
 * **Windows:**
   1. Unduh file .exe.
   2. Jalankan file .exe dan ikuti petunjuk instalasi.
