@@ -10,7 +10,7 @@ Project P5 (game) dari sekolah
 
 **HTML5**
   1. **Python:** Pastikan Anda telah menginstal Python di sistem Kalian.
-  1. Open folder di terminal kemudian berikan perintah ini di command terminal
+2. Open folder di terminal kemudian berikan perintah ini di command terminal
    ```bash
    python -m http.server 8000 --bind 127.0.0.1
 
