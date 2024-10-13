@@ -23,12 +23,9 @@ Ini adalah aplikasi contoh yang melakukan [jelaskan fungsi aplikasi].
 **Download**
 
 * **Versi Terbaru:**
-  * **Windows:** [Link download file .exe untuk Windows]
+  * **Windows:** <a href="/">Tes</a>
   * **macOS:** [Link download file .dmg untuk macOS]
   * **Linux:** [Link download file .deb atau .rpm untuk Linux]
-
-* **Versi Sebelumnya:**
-  [Daftar link download untuk versi-versi sebelumnya, jika ada]
 
 **Cara Instalasi**
 
