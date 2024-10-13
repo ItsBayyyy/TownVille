@@ -30,7 +30,9 @@ Project P5 (game) dari sekolah
 ```bash
    python -m http.server 8000 --bind 127.0.0.1
 
-* **Windows:**
+## Instalasi
+
+#### Windows
   1. Unduh file .exe.
   2. Jalankan file .exe dan ikuti petunjuk instalasi.
 * **macOS:**
