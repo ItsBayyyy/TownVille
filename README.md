@@ -1,12 +1,16 @@
 # TownVille
 Project P5 (game) dari sekolah
 
+**Deskripsi Singkat**
 
-# Versi HTML5
+Ini adalah game farmer simple.
 
-**Prasyarat**
+**Download**
 
-* **Python:** Pastikan Anda telah menginstal Python di sistem Kalian.
+  * **HTML5:** <a href="">Klik disini</a>
+  * **Windows:** <a href="">Klik disini</a>
+  * **macOS:** <a href="">Klik disini</a>
+  * **Linux:** <a href="">Klik disini</a>
 
 **HTML5**
   1. **Python:** Pastikan Anda telah menginstal Python di sistem Kalian.
@@ -21,3 +25,15 @@ Project P5 (game) dari sekolah
 **macOS:**
   1. ekstrak file .zip.
   2. Buka file .dmg dan drag aplikasi ke folder Applications.
+
+**Linux:**
+  1. Unduh file .deb atau .rpm yang sesuai dengan distribusi Linux Anda.
+  2. Buka terminal dan jalankan perintah berikut:
+     ```bash
+     sudo dpkg -i nama_file.deb
+     ```
+     atau
+     ```bash
+     sudo rpm -i nama_file.rpm
+     ```
+     Ganti `nama_file.deb` atau `nama_file.rpm` dengan nama file yang Anda unduh.
