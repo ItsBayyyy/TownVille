@@ -17,6 +17,6 @@ Project P5 (game) dari sekolah
   1. extrack file .zip.
   2. Jalankan file .exe.
 
-* **macOS:**
+**macOS:**
   1. ekstrak file .zip.
   2. Buka file .dmg dan drag aplikasi ke folder Applications.
